@@ -1,0 +1,5 @@
+{
+  "name": "Demo Store",
+  "apiKey": "demo-store-secret-key",
+  "policy": "Returns accepted within 14 days"
+}
